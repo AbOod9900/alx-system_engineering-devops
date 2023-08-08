@@ -1,2 +1,0 @@
-#!/bin/bash
-finf -mindeph 1 -type d | wc -l
